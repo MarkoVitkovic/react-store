@@ -71,15 +71,20 @@ Code:</br>
 
 ## Features
 List of features ready and TODOs for future development
-* Series details
-* All series at one place
-* Fast
+* List of products
+* Product details
+* Responsive
+* Functionally cart
+* PayPal pay
 
 To-do list:
-* Add more details
+* Enable wish list
+* Add input form for new products
+* Add login form
+* Add more products
 
 ## Status
-Project is: _finished_
+Project is: _not finished_
 
 ## Inspiration
 First react project. Started to learn react.</br>
