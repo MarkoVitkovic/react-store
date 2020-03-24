@@ -87,7 +87,6 @@ To-do list:
 Project is: _not finished_
 
 ## Inspiration
-First react project. Started to learn react.</br>
 Credits: [freeCodeCamp.org](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
 
 ## Contact
