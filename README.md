@@ -51,14 +51,23 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 ## Code Examples
 Code:</br>
-`return (`</br>
-    `<div className="App">`</br>
-      `<header className="App-header">`</br>
-        `<h1 className="App-title">TV Shows List </h1>`</br>
-      `</header>`</br>
-     ` <Main/>`</br>
-   ` </div>`</br>
- ` );`</br>
+ `<React.Fragment>`</br>
+ `       <div className="py-5">`</br>
+ `         <div className="container">`</br>
+  `        <Title name="our" title="products" />`</br>
+   `         <div className="row">`</br>
+    `        <ProductConsumer>`</br>
+     `         {(value) => {`</br>
+      `          return value.products.map(product => {`</br>
+       `           return <Product key = {product.id} product = {product} />`</br>
+        `        })`</br>
+         `     }}`</br>
+       `     </ProductConsumer>`</br>
+       `   </div>`</br>
+       `   </div>`</br>
+       ` </div>`</br>
+      `</React.Fragment>`</br>
+
 
 ## Features
 List of features ready and TODOs for future development
