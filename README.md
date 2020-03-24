@@ -17,13 +17,14 @@ you can see details for specific product. In cart you can remove or add more sam
 can test it.
 
 ## Screenshots
-![](https://github.com/MarkoVitkovic/react-tv_shows_list/blob/master/list.png)
+![](https://github.com/MarkoVitkovic/react-store/blob/master/store.png)
 
 ## Technologies
 * [React](https://reactjs.org/docs/getting-started.html) - version 16.13.1
 * [Node.js](https://nodejs.org/en/docs/) - version 13
 * [CSS](https://devdocs.io/css/) - version 3
 * [React-dom](https://github.com/facebook/react) - version 16.13.1
+* [Bootstrap](https://getbootstrap.com/docs/4.4/getting-started/introduction/) - version 4
 
 ## Setup
 Open terminal(cmd) and navigate:</br>
