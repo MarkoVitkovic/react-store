@@ -1,4 +1,36 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# E-commerce site
+> e-commerce site made with react. 
+
+## Table of contents
+* [General info](#general-info)
+* [Screenshots](#screenshots)
+* [Technologies](#technologies)
+* [Setup](#setup)
+* [Features](#features)
+* [Status](#status)
+* [Inspiration](#inspiration)
+* [Contact](#contact)
+
+## General info
+Site made with react, node.js and bootstrap. Basically on front page you see list of all products, you can add products in cart, or </br>
+you can see details for specific product. In cart you can remove or add more same items, also project have paypal button, so you </br>
+can test it.
+
+## Screenshots
+![](https://github.com/MarkoVitkovic/react-tv_shows_list/blob/master/list.png)
+
+## Technologies
+* [React](https://reactjs.org/docs/getting-started.html) - version 16.13.1
+* [Node.js](https://nodejs.org/en/docs/) - version 13
+* [CSS](https://devdocs.io/css/) - version 3
+* [React-dom](https://github.com/facebook/react) - version 16.13.1
+
+## Setup
+Open terminal(cmd) and navigate:</br>
+`npx create-react-app my-app`</br>
+`cd my-app`</br>
+`npm start`</br>
+Open source in Visual Studio Code.
 
 ## Available Scripts
 
@@ -16,4 +48,33 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-## `Credits` : [freeCodeCamp.org](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
+## Code Examples
+Code:</br>
+`return (`</br>
+    `<div className="App">`</br>
+      `<header className="App-header">`</br>
+        `<h1 className="App-title">TV Shows List </h1>`</br>
+      `</header>`</br>
+     ` <Main/>`</br>
+   ` </div>`</br>
+ ` );`</br>
+
+## Features
+List of features ready and TODOs for future development
+* Series details
+* All series at one place
+* Fast
+
+To-do list:
+* Add more details
+
+## Status
+Project is: _finished_
+
+## Inspiration
+First react project. Started to learn react.</br>
+Credits: [freeCodeCamp.org](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
+
+## Contact
+Created by [Marko Vitkovic](https://github.com/MarkoVitkovic) - feel free to contact me!
+
